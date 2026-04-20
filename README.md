@@ -30,7 +30,7 @@ Certified in Advanced AI & Computer Vision (KAUST Academy, 2026).
 
 ## Projects
 
-### [Proppant QC Vision System](https://github.com/0zyad/proppant-qc)
+### [Proppant QC Vision System](https://github.com/0zyad/proppant-vision)
 > Senior Capstone · KFUPM × Industry
 
 Real-time automated quality control for oil & gas proppant samples. Deep learning instance segmentation (CellPose/PyTorch) classifies particle grades and generates PASS/FAIL verdicts against industry specs. Deployed as a full PyQt5 kiosk app on NVIDIA Jetson Orin — replacing manual lab inspection.
